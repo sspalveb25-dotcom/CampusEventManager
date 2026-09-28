@@ -1,0 +1,4 @@
+Registration Process:
+1. Student scans QR code at venue.
+2. Fills out student ID and name.
+3. Receives entry badge.
