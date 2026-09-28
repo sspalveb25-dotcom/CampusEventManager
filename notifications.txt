@@ -1,1 +1,2 @@
 1. Email notification setup
+2. SMS notification setup
